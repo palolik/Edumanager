@@ -1,0 +1,62 @@
+[
+  {
+      "c_id": 1,
+      "Title": "Title 1",
+      "Name": "Name 1",
+      "Image": "image1.jpg",
+      "Price": 19.99,
+      "ShortDescription": "Short description 1",
+      "TotalEnrolment": 100,
+      "Enroll": true
+  },
+  {
+      "c_id": 2,
+      "Title": "Title 2",
+      "Name": "Name 2",
+      "Image": "image2.jpg",
+      "Price": 29.99,
+      "ShortDescription": "Short description 2",
+      "TotalEnrolment": 200,
+      "Enroll": false
+  },
+  {
+      "c_id": 3,
+      "Title": "Title 3",
+      "Name": "Name 3",
+      "Image": "image3.jpg",
+      "Price": 39.99,
+      "ShortDescription": "Short description 3",
+      "TotalEnrolment": 300,
+      "Enroll": true
+  },
+  {
+      "c_id": 4,
+      "Title": "Title 4",
+      "Name": "Name 4",
+      "Image": "image4.jpg",
+      "Price": 49.99,
+      "ShortDescription": "Short description 4",
+      "TotalEnrolment": 400,
+      "Enroll": false
+  },
+  {
+      "c_id": 5,
+      "Title": "Title 5",
+      "Name": "Name 5",
+      "Image": "image5.jpg",
+      "Price": 59.99,
+      "ShortDescription": "Short description 5",
+      "TotalEnrolment": 500,
+      "Enroll": true
+  },
+  {
+      "c_id": 6,
+      "Title": "Title 6",
+      "Name": "Name 6",
+      "Image": "image6.jpg",
+      "Price": 69.99,
+      "ShortDescription": "Short description 6",
+      "TotalEnrolment": 600,
+      "Enroll": false
+  }
+]
